@@ -14,14 +14,14 @@ JavaScript
 OMDB API
 
 Functionality
-Search Movies with Suggestions
-Users can search for movies based on keywords with auto-suggestions.
-View Movie Details
-Clicking on a movie card opens a new page with detailed information about the movie.
-Add to Favorites
-Users can add movies to their favorites list, which is stored using local storage.
-Delete from Favorites
-Users can remove movies from their favorites list.
+-Search Movies with Suggestions
+-Users can search for movies based on keywords with auto-suggestions.
+-View Movie Details
+-Clicking on a movie card opens a new page with detailed information about the movie.
+-Add to Favorites
+-Users can add movies to their favorites list, which is stored using local storage.
+-Delete from Favorites
+-Users can remove movies from their favorites list.
 
 
 Data Management
